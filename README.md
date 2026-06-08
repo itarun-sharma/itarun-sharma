@@ -76,8 +76,3 @@ Developed a quantitative research and backtesting platform for NIFTY 50 equities
 
 ---
 
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itarun_sharma\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itarun_sharma\&layout=compact)
